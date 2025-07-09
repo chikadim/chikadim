@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Chika, and I'm a strong believer in learning and upskilling!
+
+- 🔭 I’m currently working on a food delivery app in React Native with scalable database architecture.
+- 🌱 I recently built some apps you can find pinned on my profile just below 
+- 👯 I’m looking to collaborate on interesting and real world projects!
+  - Send me ideas to cckrist@outlook.com
 
 <!--
 **chikadim/chikadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
