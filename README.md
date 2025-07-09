@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Chika
 
-My name is Chika, and I'm a strong believer in learning and upskilling!
+## 🙋‍♂️ About me
+
+I'm a strong believer in learning and upskilling! Presently i find so much fun doing full stack projects. When i am not building something or learning something new, then you can find me playing table tennis, listening to music, meeting with valuable people or spending time with my family ❤️.
 
 - 🔭 I’m currently working on a food delivery app in React Native with scalable database architecture.
 - 🌱 I recently built some apps you can find pinned on my profile just below 
